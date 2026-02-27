@@ -1,5 +1,5 @@
 # Rhuan-dos-Reis---Banco-de-dados
-.
+Armazenamento voltado as atividades da FATEC
 ## Apresentação em equipe usando software designer gráfico
 
 [-Projeto 1-13022006-Apresentação Fatec grupo 3.pdf](https://github.com/user-attachments/files/25590184/-Projeto.1-13022006-Apresentacao.Fatec.grupo.3.pdf)
