@@ -14,3 +14,4 @@ Uso de software canva e tratamento de imagem.
 https://www.canva.com/design/DAHCkEL5No8/zrEcTbG985jMSix-2wI4mw/edit?utm_content=DAHCkEL5No8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Atividade Excel
+Essa atividade foi empregada para compreender o software excel e suas funções como o "=procv".
