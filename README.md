@@ -15,3 +15,8 @@ https://www.canva.com/design/DAHCkEL5No8/zrEcTbG985jMSix-2wI4mw/edit?utm_content
 
 ## Atividade Excel
 Essa atividade foi empregada para compreender o software excel e suas funções como o "=procv".
+
+
+
+## Atividade Excel - 2° aula voltada ao aprendizado das ferramentas de software.
+
