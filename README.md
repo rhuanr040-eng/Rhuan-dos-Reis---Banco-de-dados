@@ -19,4 +19,5 @@ Essa atividade foi empregada para compreender o software excel e suas funções 
 
 
 ## Atividade Excel - 2° aula voltada ao aprendizado das ferramentas de software.
+
 https://github.com/rhuanr040-eng/Rhuan-dos-Reis---Banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20222559.png
