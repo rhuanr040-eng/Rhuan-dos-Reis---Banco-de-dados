@@ -21,3 +21,9 @@ Essa atividade foi empregada para compreender o software excel e suas funções 
 ## Atividade Excel - 2° aula voltada ao aprendizado das ferramentas de software.
 
 https://github.com/rhuanr040-eng/Rhuan-dos-Reis---Banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20222559.png
+
+
+
+## Atividade Excel - 3° aula voltada ao "somases"
+https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
+<img width="759" height="726" alt="Captura de tela 2026-04-10 223017" src="https://github.com/user-attachments/assets/0eb38146-999c-4d45-8c6b-fc456523a331" />
