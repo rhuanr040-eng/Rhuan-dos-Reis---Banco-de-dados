@@ -1,5 +1,6 @@
 # Rhuan-dos-Reis---Banco-de-dados
 Armazenamento voltado as atividades da FATEC
+
 ## Apresentação em equipe usando software designer gráfico
 Atividade de cunho descontraido voltada para aprendizado e estabelecimento de relações interpessoais.
 Uso de software canva e tratamento de imagem.
@@ -13,12 +14,10 @@ Uso de software canva e tratamento de imagem.
 <img width="1214" height="686" alt="image" src="https://github.com/user-attachments/assets/8342edf6-4c57-4a17-a541-73ff4f6c369a" />
 https://www.canva.com/design/DAHCkEL5No8/zrEcTbG985jMSix-2wI4mw/edit?utm_content=DAHCkEL5No8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Atividade Excel
-Essa atividade foi empregada para compreender o software excel e suas funções como o "=procv".
+## Excel aulas 1° E 2°
+Essa atividade foi empregada para compreender o software excel e suas funções como o "=procv" e "=somase".
+[Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26804514/Todos.os.ensinamentos.xlsx)
 
-
-
-## Atividade Excel - 2° aula voltada ao aprendizado das ferramentas de software.
 
 https://github.com/rhuanr040-eng/Rhuan-dos-Reis---Banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20222559.png
 
