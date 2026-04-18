@@ -14,7 +14,9 @@ Uso de software canva e tratamento de imagem.
 <img width="1214" height="686" alt="image" src="https://github.com/user-attachments/assets/8342edf6-4c57-4a17-a541-73ff4f6c369a" />
 https://www.canva.com/design/DAHCkEL5No8/zrEcTbG985jMSix-2wI4mw/edit?utm_content=DAHCkEL5No8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Excel aulas 1° E 2°
+
+
+## Excel - 1° e 2° aula para fórmulas
 Essa atividade foi empregada para compreender o software excel e suas funções como o "=procv" e "=somase".
 [Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26804514/Todos.os.ensinamentos.xlsx)
 
@@ -24,7 +26,12 @@ Essa atividade foi empregada para compreender o software excel e suas funções 
 
 
 
-
-## Atividade Excel - 3° aula voltada ao "somases"
+## Excel - 3° aula voltada ao "somases"
+Atividade conduzida com ensino de novas fórmulas.
 https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
 <img width="759" height="726" alt="Captura de tela 2026-04-10 223017" src="https://github.com/user-attachments/assets/0eb38146-999c-4d45-8c6b-fc456523a331" />
+
+
+
+## Excel - 4° aula para fixação de fórmulas
+Atividade focada em fixar aprendizados transmitidos anteriormente.
