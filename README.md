@@ -19,7 +19,9 @@ Essa atividade foi empregada para compreender o software excel e suas funções 
 [Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26804514/Todos.os.ensinamentos.xlsx)
 
 
-https://github.com/rhuanr040-eng/Rhuan-dos-Reis---Banco-de-dados/blob/main/Captura%20de%20tela%202026-03-13%20222559.png
+<img width="1029" height="613" alt="Captura de tela 2026-04-17 213226" src="https://github.com/user-attachments/assets/91dc47fe-bd97-4b3c-b751-c2a855bbfd69" />
+<img width="445" height="345" alt="Captura de tela 2026-04-17 213307" src="https://github.com/user-attachments/assets/613b8aee-1528-4987-acce-eb2466a9c92d" />
+
 
 
 
