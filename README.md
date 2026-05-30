@@ -1,3 +1,4 @@
+
 # Rhuan-dos-Reis---Banco-de-dados
 Armazenamento voltado as atividades da FATEC
 
@@ -36,3 +37,11 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 Atividade focada em fixar aprendizados transmitidos anteriormente.
 <img width="854" height="118" alt="Captura de tela 2026-04-17 213036" src="https://github.com/user-attachments/assets/1cc19b5b-fd2c-49eb-88e6-395fb5e089ef" />
 https://docs.google.com/spreadsheets/d/1KnTTM1ZSIn-ZdSXlLcqIRxI-NI4r_Ve6/edit?usp=drive_link&ouid=100033577388896252158&rtpof=true&sd=true
+
+Avaliação do dia 29/05/2026, temos a seguintes informações:
+
+acesso aos dados do excel.
+https://docs.google.com/spreadsheets/d/1v6cONo7TkrVmXU4ve4cvDi3nO96uMbpn/edit?usp=sharing&ouid=100033577388896252158&rtpof=true&sd=true
+
+acesso ao vídeo de interação
+https://drive.google.com/file/d/1TnaU7xo-lBkXFOtixthLjz7vNS8Ex-9S/view?usp=sharing
